@@ -2,8 +2,8 @@
 </head>
 <body>
   <h1>SGLauncher News</h1>
-  <p>Welcome to <strong>SGNETWORK</strong> — your minecraft launcher!</p>
-  <p>🔥 Capes Giveaway: Get your exclusive SGLauncher Cape now!</p>
+  <p>Welcome to <strong>SGlauncher</strong> — your minecraft launcher!</p>
+  <p>🔥Free Capes Giveaway: Get your exclusive SGLauncher Cape now!</p>
   <p>Stay connected:</p>
   <p>
     <a href="https://instagram.com/sglauncher" target="_blank">Instagram</a> |
